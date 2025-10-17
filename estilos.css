@@ -617,7 +617,7 @@ display: none;
     .nav__list{
         position: static;
         grid-auto-flow: column;
-        background-color: /**#BLC-**/rgb(255, 255, 255);  /**#AZUL** rgb(0, 32, 79);**/
+        background-color: /**#BLC-**/ #FFFF;  /**#AZUL** rgb(0, 32, 79);**/
         place-content:unset;
         gap: 1rem;
     }
